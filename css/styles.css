@@ -645,7 +645,7 @@
 
 .copyright {
 	font-size: 1.4rem;
-	color: #787878;
+	color: #737373;
 	line-height: 1.6;
 	margin-top: auto;
 }
@@ -661,7 +661,7 @@
 .footer-link:visited {
 	text-decoration: none;
 	font-size: 1.6rem;
-	color: #767676;
+	color: #707070;
 	transition: all 0.3s;
 }
 
